@@ -1,0 +1,55 @@
+﻿<!-- SCOREBOARD FOR THE GAME SCORING -->
+<UserControl x:Class="Tarneeb.ScoreBoard"
+             Name="score"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Tarneeb"
+             mc:Ignorable="d" 
+              d:DesignHeight="500" d:DesignWidth="200" Margin="990,10,10,10"
+              BorderThickness="5"  BorderBrush="White" Width="200" Height="500"
+             
+             
+             >
+    <Grid>
+        <Grid x:Name="board" Width="200" Height="500">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+
+            </Grid.ColumnDefinitions>
+            <StackPanel x:Name="spScoreElements" Orientation="Vertical" Grid.Column="0" Height="500" Width="200">
+                <Label x:Name="lb" Content="LeaderBoard" Width="200" FontWeight="Bold" FontSize="25" Foreground="SlateGray"/>
+                <Label Name="lblTrumpVal" Content="Trump is: " Width="200" Foreground="SlateGray"></Label>
+
+                <Label x:Name="lblCurrentBid" Content="Current Bid: " Width="200" Foreground="SlateGray"/>
+
+                <Label Content="Turn: " Width="200" Foreground="SlateGray"/>
+
+                <Label Content="Trick: "  Width="200" FontWeight="Bold" FontSize="25" Foreground="SlateGray"/>
+
+                <Label x:Name="lblTrickNum" Content="Trick #: " Width="200" Foreground="SlateGray"/>
+
+                <Label x:Name="lblLastTrickWinner" Content="Last Trick Winner: " Width="200" Foreground="SlateGray"/>
+
+
+                <Label Content="Team 1" Width="200" Foreground="SlateGray"/>
+                <Label Name="t1Score" Content="Team 1 - score" Width="200" Foreground="SlateGray"/>
+                <Label Content="Team 2" Width="200" Foreground="SlateGray"/>
+                <Label  Name="t2Score" Content="Team 2 - score" Width="200" Foreground="SlateGray"/>
+                <Label  Content="Player Tricks" Width="200" FontWeight="Bold" FontSize="15" Foreground="SlateGray"/>
+                <Label  Name="p1TrickCount" Content="Player1: " Width="200" Foreground="SlateGray"/>
+                <Label  Name="p2TrickCount" Content="Player2: " Width="200" Foreground="SlateGray"/>
+                <Label  Name="p3TrickCount" Content="Player3: " Width="200" Foreground="SlateGray"/>
+                <Label  Name="p4TrickCount" Content="Player4: " Width="200" Foreground="SlateGray"/>
+
+
+            </StackPanel>
+
+
+
+        </Grid>
+
+    </Grid>
+</UserControl>

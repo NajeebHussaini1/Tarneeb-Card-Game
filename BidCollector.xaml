@@ -1,0 +1,32 @@
+﻿<!-- BID COLLECTING THAT WINDOW TO ALLOW FOR BIDDING  -->
+<Window x:Class="Tarneeb.BidCollector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarneeb"
+        mc:Ignorable="d"
+        Title="Bid" Height="350" Width="200">
+    <Grid>
+        <StackPanel >
+            <Label Content="Please enter your bid"/>
+            <Label x:Name="bidNum" Content="{Binding ElementName=slideBidVal, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right"  Width="40" />
+
+            <Slider x:Name="slideBidVal" Minimum="7" Maximum="13" TickPlacement="BottomRight" IsSnapToTickEnabled="True" TickFrequency="1" Margin="0,0,10,10"/>
+
+            <GroupBox x:Name="bidSuit" Margin="10,10,10,5">
+                <StackPanel>
+
+                    <RadioButton Name="rHearts" Content="Hearts" IsChecked="True" Margin="10,10,10,0"/>
+                    <RadioButton Name="rClubs" Content="Clubs" Margin="10,10,10,5"/>
+                    <RadioButton Name="rDiamonds" Content="Diamonds" Margin="10,10,10,5"/>
+                    <RadioButton Name="rSpades" Content="Spades" Margin="10,10,10,5"/>
+                    
+                </StackPanel>
+             </GroupBox>
+
+            <Button Name="btnBid" Width="50" Content="Bid" HorizontalAlignment="Center" Click="btnBid_Click" Margin="10,10,10,5"/>
+          
+        </StackPanel>
+    </Grid>
+</Window>

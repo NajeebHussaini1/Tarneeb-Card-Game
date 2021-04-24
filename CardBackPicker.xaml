@@ -1,0 +1,316 @@
+﻿<!-- CARD BACK PICKER TO CHOOSE CARD DESIGN -->
+<Window x:Class="Tarneeb.CardBackPicker"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarneeb"
+        mc:Ignorable="d"
+        Title="Customize Card back" Height="701.5" Width="565.948" ResizeMode="NoResize" Icon="awesome.png">
+    <Grid Name="back" Margin="0,0,3.2,-2">
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FFFEFAEC"/>
+                <GradientStop Color="#FFD4FFFA" Offset="1"/>
+                <GradientStop Color="#FFF3E7FF" Offset="0.512"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Label x:Name="lblDarkGeode" Width="100" Margin="24,69,432,452" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/blue geode.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnDarkGeode" Content="Geode" HorizontalAlignment="Left" Margin="24,227,0,0" VerticalAlignment="Top" Width="100"  Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblAbstract" Width="100" Margin="152,69,304,452" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Abstract.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnAbstract" Content="Abstract" HorizontalAlignment="Left" Margin="152,227,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblGradient" Width="100" Margin="280,69,176,452" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Gradient.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnGradient" Content="Gradient" HorizontalAlignment="Left" Margin="280,227,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblLandscape" Width="100" Margin="408,69,48,452" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Landscape.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnLandscape" Content="Landscape" HorizontalAlignment="Left" Margin="408,227,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblMountains" Width="100" Margin="24,266,432,256" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/LOGOTeamAwesome.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnMountains" Content="Mountains" HorizontalAlignment="Left" Margin="24,424,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblGreyComb" Width="100" Margin="152,266,304,256" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Pattern.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnGreyComb" Content="Grey Comb" HorizontalAlignment="Left" Margin="152,424,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblRedDiagonals" Width="100" Margin="280,266,176,256" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Red.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnRedDiagonals" Content="Red Diagonals" HorizontalAlignment="Left" Margin="280,424,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblGreyStripes" Width="100" Margin="408,266,48,256" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Stripes.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnGreyStripes" Content="Grey Stripes" HorizontalAlignment="Left" Margin="408,424,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblSky" Width="100" Margin="24,462,432,60" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/Card_Back_Sky.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnSky" Content="Aurora Borealis" HorizontalAlignment="Left" Margin="24,620,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblLightGeode" Width="100" Margin="152,462,304,60" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/light blue geode.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnLightGeode" Content="Light Geode" HorizontalAlignment="Left" Margin="152,620,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblTropicalPlant" Width="100" Margin="284,462,172,60" BorderThickness="2" Foreground="Black">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/CardBack/tropical_plant.png" Opacity="0.75"/>
+
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnTropicalPlant" Content="Tropical Flowers" HorizontalAlignment="Left" Margin="280,620,0,0" VerticalAlignment="Top" Width="100" Height="23" BorderBrush="#FFF1FFFD" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" Foreground="#FF4B4B4B">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF4F4F4" Offset="0.003"/>
+                    <GradientStop Color="#FFF7DFFC" Offset="0.399"/>
+                    <GradientStop Color="#FFEDBDF7"/>
+                    <GradientStop Color="#FFEFCDF6"/>
+                    <GradientStop Color="#FFF0DBF5"/>
+                    <GradientStop Color="#FFEAA2F9"/>
+                    <GradientStop Color="#FFF4DCF9"/>
+                    <GradientStop Color="#FFEFC9F7" Offset="1"/>
+                    <GradientStop Color="#FFF5D9FA" Offset="0.691"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnSelect" Content="SELECT" HorizontalAlignment="Left" Height="27" Margin="408,506,0,0" VerticalAlignment="Top" Width="100" Background="#FFFFF1F1" Foreground="#FF2D8551" FontWeight="Bold" FontFamily="Arial" BorderBrush="{x:Null}">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="btnCancel" Content="CANCEL" HorizontalAlignment="Left" Height="26" Margin="422,554,0,0" VerticalAlignment="Top" Width="74" Background="#FFFFF1F1" Foreground="#FF9A2911" FontWeight="Bold" FontFamily="Arial" BorderBrush="{x:Null}">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Customize your Card Back" HorizontalAlignment="Left" Height="33" Margin="24,10,0,0" VerticalAlignment="Top" Width="360" FontFamily="Arial" FontWeight="Bold" FontSize="18" Background="{x:Null}"/>
+    </Grid>
+</Window>

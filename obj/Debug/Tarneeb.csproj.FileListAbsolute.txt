@@ -1,0 +1,121 @@
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\BidCollector.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_Board.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_MenuPage.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_UserGuide.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\MainWindow.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_ScoreBoard.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\App.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox_Content.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.cache
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.lref
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox.exe
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox.pdb
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\bin\Debug\Guide\Tarneeb_userguide.html
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\bin\Debug\TarneebSandbox.exe.config
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\bin\Debug\TarneebSandbox.exe
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\bin\Debug\TarneebSandbox.pdb
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\BidCollector.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_Board.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_MenuPage.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_UserGuide.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\MainWindow.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\_ScoreBoard.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox.g.resources
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\TarneebSandbox.Properties.Resources.resources
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\Tarneeb.csproj.GenerateResource.cache
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\Tarneeb.csproj.CoreCompileInputs.cache
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\GuideWindow.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\GuideWindow.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebSandbox\obj\Debug\Tarneeb.csprojAssemblyReference.cache
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\BidCollector.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\CardBackPicker.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\GuideWindow.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\_Board.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\_MenuPage.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\MainWindow.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\_ScoreBoard.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\App.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox_Content.g.cs
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.cache
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.lref
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox.exe
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox.pdb
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\bin\Debug\Tarneeb_db.mdf
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\bin\Debug\Tarneeb_db_log.ldf
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\bin\Debug\Guide\Tarneeb_userguide.html
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\bin\Debug\TarneebSandbox.exe.config
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\bin\Debug\TarneebSandbox.exe
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\bin\Debug\TarneebSandbox.pdb
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\BidCollector.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\CardBackPicker.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\GuideWindow.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\_Board.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\_MenuPage.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\MainWindow.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\_ScoreBoard.baml
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox.g.resources
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\TarneebSandbox.Properties.Resources.resources
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\Tarneeb.csproj.GenerateResource.cache
+C:\Users\etyle\OneDrive - Durham College\Semester 4\OOP III\Final Project\Sandbox\TarneebFinal\TarneebSandbox\obj\Debug\Tarneeb.csproj.CoreCompileInputs.cache
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\bin\Debug\Tarneeb_db.mdf
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\bin\Debug\Tarneeb_db_log.ldf
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\bin\Debug\Guide\Tarneeb_userguide.html
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\bin\Debug\TarneebSandbox.exe.config
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\bin\Debug\TarneebSandbox.exe
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\bin\Debug\TarneebSandbox.pdb
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\Tarneeb.csprojAssemblyReference.cache
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\BidCollector.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\CardBackPicker.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\GuideWindow.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\_Board.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\_MenuPage.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\MainWindow.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\_ScoreBoard.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\App.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox_Content.g.cs
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.cache
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.lref
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\BidCollector.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\CardBackPicker.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\GuideWindow.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\_Board.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\_MenuPage.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\MainWindow.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\_ScoreBoard.baml
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox.g.resources
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox.Properties.Resources.resources
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\Tarneeb.csproj.GenerateResource.cache
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\Tarneeb.csproj.CoreCompileInputs.cache
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox.exe
+C:\Users\najee\Documents\OOP4200 Final\TarneebSandbox\obj\Debug\TarneebSandbox.pdb
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\bin\Debug\Tarneeb_db.mdf
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\bin\Debug\Tarneeb_db_log.ldf
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\bin\Debug\Guide\Tarneeb_userguide.html
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\bin\Debug\TarneebSandbox.exe.config
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\bin\Debug\TarneebSandbox.exe
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\bin\Debug\TarneebSandbox.pdb
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\Tarneeb.csprojAssemblyReference.cache
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\BidCollector.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\CardBackPicker.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\GuideWindow.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\_Board.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\_MenuPage.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\MainWindow.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\_ScoreBoard.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\App.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox_Content.g.cs
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.cache
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox_MarkupCompile.lref
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\BidCollector.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\CardBackPicker.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\GuideWindow.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\_Board.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\_MenuPage.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\MainWindow.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\_ScoreBoard.baml
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox.g.resources
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox.Properties.Resources.resources
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\Tarneeb.csproj.GenerateResource.cache
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\Tarneeb.csproj.CoreCompileInputs.cache
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox.exe
+C:\Users\najee\Documents\TarneebFinal - Group 2\TarneebSandbox\obj\Debug\TarneebSandbox.pdb

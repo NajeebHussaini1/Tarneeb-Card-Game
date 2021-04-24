@@ -1,0 +1,14 @@
+﻿<!-- USER GUIDE WINDOW  -->
+<Window x:Class="TarneebSandbox.GuideWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TarneebSandbox"
+        mc:Ignorable="d"
+        Title="GuideWindow" Height="600" Width="800">
+    <Grid>
+        <Frame  x:Name="guideFrame" HorizontalAlignment="Center" Height="400" Margin="25,25,50,50" VerticalAlignment="Top" Width="700" />
+        <Button x:Name="closeGuide" Height="20" Width="100" Content="Close Guide" Margin="475,400,0,0" Click="CloseGuide_Click"></Button>
+    </Grid>
+</Window>
